@@ -106,9 +106,7 @@
 		"group": "ads",
 		"title": "EasyList",
 		"contentURL": [
-			"https://easylist.to/easylist/easylist.txt",
-			"https://secure.fanboy.co.nz/easylist.txt",
-			"https://easylist-downloads.adblockplus.org/easylist.txt",
+			"https://github.com/Abhiapache/File-Hosting/raw/main/easylist.txt",
 			"assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt"
 		],
 		"supportURL": "https://forums.lanik.us/"
